@@ -1,0 +1,50 @@
+.container{
+    border: 2px solid black;
+    height: 400px;
+    width: auto;
+    background: rgb(50, 119, 199);
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+
+}
+
+h2{
+    text-align: center;
+}
+
+.Buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 2px;
+
+}
+
+button{
+    height: 30px;
+    background: white;
+    font-weight: 700;
+    border: 2px solid white;
+}
+
+.Inputs{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 20px;
+}
+input{
+    height: 30px;
+    width: 110px;
+    text-align: center;
+     
+}
+
+
+
+ 
